@@ -2,9 +2,10 @@
 
 namespace Pulse\HandlerException;
 
-use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 
-class HandlerExceptionBundle extends AbstractBundle
+use Symfony\Component\HttpKernel\Bundle\Bundle;
+
+class HandlerExceptionBundle extends Bundle
 {
 
 }
