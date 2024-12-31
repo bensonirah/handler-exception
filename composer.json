@@ -1,5 +1,5 @@
 {
-    "name": "pulse/handler-exception",
+    "name": "bensonirah/handler-exception",
     "description": "A centralized exception handling with symfony",
     "type": "symfony-bundle",
     "require": {
