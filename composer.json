@@ -1,0 +1,21 @@
+{
+    "name": "pulse/handler-exception",
+    "description": "A centralized exception handling with symfony",
+    "type": "symfony-bundle",
+    "require": {
+        "symfony/framework-bundle": "^7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pulse\\HandlerException\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bensonirah",
+            "email": "bensonirah@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
