@@ -3,7 +3,7 @@
     "description": "A centralized exception handling with symfony",
     "type": "symfony-bundle",
     "require": {
-        "symfony/framework-bundle": "^7.2"
+        "symfony/framework-bundle": "5.4.*"
     },
     "license": "MIT",
     "autoload": {
@@ -19,6 +19,6 @@
     ],
     "minimum-stability": "stable",
     "require-dev": {
-        "symfony/var-dumper": "^7.2"
+        "symfony/var-dumper": "5.4.*"
     }
 }
